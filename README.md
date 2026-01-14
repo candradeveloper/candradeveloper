@@ -298,14 +298,14 @@ Select your preferred communication channel:
       <sub><b>Email Me</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://wa.me/6281234567890">
+      <a href="https://wa.me/6285733142558">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
       </a>
       <br>
       <sub><b>Quick Message</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://discord.gg/candradev">
+      <a href="https://discord.gg/candrawoh.27">
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
       </a>
       <br>
